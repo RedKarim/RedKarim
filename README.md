@@ -1,7 +1,7 @@
 - 👋 Hi, I’m MAHDYAR KARIMI.
-- 👀 I’m interested in front-end engineering and system engineering.
-- 🌱 I’m currently learning advanced React, AWS, NestJs.
-- 💞️ I’m looking to collaborate on simple front-end projects.
+- 👀 I’m interested in front-end and Infrastructure engineering.
+- 🌱 I am a AWS Certified Solutions Architect – Associate.
+- 💞️ I’m looking to collaborate on any project.
 - 📫 Feel free to teach me anything.
 - 😄 Pronouns: 70 year-old red dolphin.
 - ⚡ Fun fact: I am an Iranian living in Japan.
