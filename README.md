@@ -1,6 +1,6 @@
 - 👋 Hi, I’m MAHDYAR KARIMI.
 - 👀 I’m interested in front-end and Infrastructure engineering.
-- 🌱 I am a AWS Certified Solutions Architect – Associate.
+- 🌱 I am an AWS Certified Solutions Architect – Associate.
 - 💞️ I’m looking to collaborate on any project.
 - 📫 Feel free to teach me anything.
 - 😄 Pronouns: 70 year-old red dolphin.
