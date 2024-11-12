@@ -56,7 +56,7 @@
 ---
 
 ### 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahdkarim/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-karimi-88841b200/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat&logo=Google-Chrome&logoColor=white)](https://karimimahdyar.com)
 [![GitHub](https://img.shields.io/github/followers/RedKarim?label=Follow%20on%20GitHub&style=social)](https://github.com/RedKarim)
 
