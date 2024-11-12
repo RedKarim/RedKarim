@@ -1,57 +1,67 @@
-# 👋 Hey there! I'm **MAHDYAR KARIMI** 
+# 👋 Hey there! I'm **MAHDYAR KARIMI**
+
+![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=RedKarim.profile)
+![GitHub followers](https://img.shields.io/github/followers/RedKarim?label=Follow&style=social)
+![AWS Certified](https://img.shields.io/badge/AWS-Certified%20Solutions%20Architect-orange)
 
 **Frontend & Infrastructure Engineer | AWS Certified Solutions Architect**
 
 ---
 
 ### 👀 About Me
-- 🔥 Passionate about crafting engaging front-end experiences and building robust infrastructure.
-- 🎓 Recently achieved AWS Certified Solutions Architect – Associate.
-- 🌏 Originally from Iran, currently making waves in Japan!
+- 🔥 Crafting engaging front-end experiences and building robust infrastructure.
+- 🌱 Proudly AWS Certified Solutions Architect – Associate.
+- 🌏 Originally from Iran, now living and working in Japan.
 
 ---
 
-### 💼 What I’m Up To
-- 🤝 Open to collaborations on projects related to front-end development, infrastructure, or anything innovative!
-- 📈 Continuously expanding my tech stack and improving my skills.
+### 🚀 My Skills & Tools
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Tailwind](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
 ---
 
-### 💡 Fun Facts
-- 🐬 Pronouns: 70-year-old red dolphin 🐬
-- 🌍 Living a cross-cultural life, blending Iranian roots with Japanese surroundings.
-
----
-
-### 📫 Reach Out!
+### 💼 Projects & Work
+- **Portfolio Site**: [karimimahdyar.com](https://karimimahdyar.com) 🖥️
 - **GitHub**: [@RedKarim](https://github.com/RedKarim)
-- **Portfolio**: [karimimahdyar.com](https://karimimahdyar.com)
 
 ---
 
-### 🔧 Tech Stack
-- **Languages & Frameworks**: JavaScript, TypeScript, React, Next.js, HTML, CSS, Django
-- **Tools & Platforms**: AWS, Docker, Git, Figma, Tailwind, Bootstrap
+### 🌍 Fun Facts
+- 🐬 Pronouns: 70-year-old red dolphin 🐬
+- 🌏 Blending Iranian roots with Japanese culture.
 
 ---
 
-### 🖥️ GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RedKarim&show_icons=true&theme=dark)
+### 📊 GitHub Stats
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RedKarim&show_icons=true&theme=radical&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RedKarim&layout=compact&theme=radical" />
+</div>
 
 ---
 
-### 📈 Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RedKarim&layout=compact&theme=dark)
+### 🏆 Achievements
+- **AWS Solutions Architect – Associate** 🏅
+- Recently launched my portfolio website in **Next.js** and **TypeScript**
 
 ---
 
-### 🌱 Latest Activity
-- 🔄 Working on a portfolio website using **Next.js** and **TypeScript**
-- 🏆 Recently passed the **AWS Solutions Architect – Associate** exam!
+### 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahdkarim/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat&logo=Google-Chrome&logoColor=white)](https://karimimahdyar.com)
+[![GitHub](https://img.shields.io/github/followers/RedKarim?label=Follow%20on%20GitHub&style=social)](https://github.com/RedKarim)
 
 ---
 
-Happy coding! 😄
+Happy coding! 😊
 
 <!---
 - 👋 Hi, I’m MAHDYAR KARIMI.
