@@ -29,7 +29,7 @@
 
 ### 💼 Projects & Work
 - **Portfolio Site**: [karimimahdyar.com](https://karimimahdyar.com) 🖥️
-- **Email**: [karimimahdyar.com](https://rhlkr7474@gmail.com) 🖥️
+- **Email**: [rhlkr7474@gmail.com](https://rhlkr7474@gmail.com) 🖥️
 - **GitHub**: [@RedKarim](https://github.com/RedKarim)
 
 ---
