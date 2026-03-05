@@ -1,4 +1,4 @@
-# 👋 Hey there! I'm **MAHDYAR KARIMI**
+# 👋 Hey there! I'm **RedKarim**
 
 ![GitHub followers](https://img.shields.io/github/followers/RedKarim?label=Follow&style=social)
 ![AWS Certified](https://img.shields.io/badge/AWS-Certified%20Solutions%20Architect-orange)
